@@ -1,0 +1,13 @@
+name: Particl
+symbol: PART
+url: https://particl.io
+consensus: PoS
+incentivized: Y
+consensus_distribution: 70
+consensus_distribution_source: https://chainz.cryptoid.info/part/#!rich
+wealth_distribution: 44%
+wealth_distribution_source: https://chainz.cryptoid.info/part/#!rich
+client_codebases: 1
+client_codebases_source: http://particl.io/downloads/
+public_nodes: 123
+public_nodes_source: https://explorer.particl.io/
